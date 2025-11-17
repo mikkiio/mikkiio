@@ -10,9 +10,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717)](https://github.com/mikkiio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5)](https://linkedin.com/in/mikkiio)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2)](https://twitter.com/mikkiio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B6B&color=FF6B6B)](https://mikio.dev)
 
 </div>
 
@@ -164,10 +162,6 @@
 - 💬 Ask me about **React, Node.js, TypeScript**
 - 📫 How to reach me: **GitHub Discussions**
 - ⚡ Fun fact: **I love mangos! 🥭**
-
-## 🎵 Now Playing
-
-[![Spotify](https://spotify-readme-mikkiio.vercel.app/api?theme=dark)](https://open.spotify.com/user/mikkiio)
 
 </div>
 
