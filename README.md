@@ -6,11 +6,10 @@
 <!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6ff&size=25&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
 
-<!-- Social Badges -->
+<!-- GitHub Badge -->
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717)](https://github.com/mikkiio)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2)](https://twitter.com/mikkiio)
 
 </div>
 
@@ -137,16 +136,6 @@
 <!--END_SECTION:activity-->
 
 *Automatically updates with your latest GitHub activity*
-
-</div>
-
-<!-- Coding Stats -->
-<div align="center">
-
-## 💻 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 </div>
 
