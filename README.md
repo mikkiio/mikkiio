@@ -6,44 +6,7 @@
 <!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58a6ff&size=25&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
 
-<!-- GitHub Badge -->
-<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717)](https://github.com/mikkiio)
-
-</div>
-
-</div>
-
-<!-- Stats Grid -->
-<div align="center">
-
-<!-- GitHub Stats -->
-<table>
-  <tr>
-    <td width="50%">
-      
-![Mikio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikkiio&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&custom_title=Mikio's+GitHub+Stats)
-
-    </td>
-    <td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkiio&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=8b949e&langs_count=8)
-
-    </td>
-  </tr>
-</table>
-
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mikkiio&theme=radical&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-<!-- Activity Graph -->
-[![Mikio's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mikkiio&custom_title=Mikio's%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&color=58a6ff&line=58a6ff&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<!-- Tech Stack -->
-<div align="center">
 
 ## 🛠️ Tech Stack & Tools
 
